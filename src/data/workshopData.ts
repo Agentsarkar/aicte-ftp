@@ -248,7 +248,7 @@ export const WORKSHOP_DATA = {
       experience: "10+ years",
       email: "",
       phone: "",
-      image: "",
+      image: "/images/speakers/bala.jpg",
       sessionNumber: "Session 8",
       day: 4,
       time: "7:30 PM – 9:00 PM",
